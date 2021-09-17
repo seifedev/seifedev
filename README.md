@@ -1,0 +1,3 @@
+- 👋 Hi, I’m seife
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning computer science 
